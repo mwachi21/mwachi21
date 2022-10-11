@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mwachi21
+- 👋 Hi, I’m Dennis Mwachi
 - 👀 I’m interested in Hardcore coding and hardware prgramming
 - 🌱 I’m currently Software Engineering at ALX
 - 💞️ I’m looking to collaborate on any HTML, Shell, bash, projects
