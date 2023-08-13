@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 - 👋 Hi, I’m Dennis Mwachi
 - 👀 I’m interested in Hardcore coding and hardware programming
 - 🌱 I’m currently in Software Engineering at ALX
