@@ -39,6 +39,14 @@
 Currently studying Software Engineering at <img height="30" src="https://scholarshipupdate.ng/wp-content/uploads/2022/03/ALX-Africa-Career-Catalyst-Programme.png"><br>
 - 💞️ I’m looking to collaborate on any HTML, Shell, or Bash, projects
 
+<!-- Cards -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+<!-- end -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwachi21)](https://github.com/anuraghazra/github-readme-stats)
 
