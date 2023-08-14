@@ -31,6 +31,8 @@
 
 </ul>
 <hr>
+
+<img width="100" src="https://th.bing.com/th/id/R.f1837736d507a2666762717813ee41c8?rik=qJmevxZw3oxQwg&pid=ImgRaw&r=0">
 - 👋 Hi, I’m Dennis Mwachi
 - 👀 I’m interested in Hardcore coding and hardware programming
 - 🌱 I’m currently in Software Engineering at <img height="30" src="https://scholarshipupdate.ng/wp-content/uploads/2022/03/ALX-Africa-Career-Catalyst-Programme.png">
