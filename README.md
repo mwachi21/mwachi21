@@ -19,8 +19,8 @@
 
 - 👋 Hi, I’m Dennis Mwachi
 - 👀 I’m interested in Hardcore coding and hardware programming
-- 🌱 I’m currently in Software Engineering at ALX
-- 💞️ I’m looking to collaborate on any HTML, Shell, or bash, projects
+- 🌱 I’m currently in Software Engineering at <img src="https://lh3.googleusercontent.com/Ac1cTLN5PaGfFTBiv6SOIVjDX47DrQcEhwEi0SJHU6mkk0vDsyOmBJhoa3bwkclUT9fs-NKgz_i9CRqz85iw_FusHaddlTl53xk=s0">
+- 💞️ I’m looking to collaborate on any HTML, Shell, or Bash, projects
 - 📫 How to reach me [...](https://www.linkedin.com/in/dennis-mwachi-a30013216/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
