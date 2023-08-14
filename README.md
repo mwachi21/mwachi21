@@ -19,11 +19,11 @@
 
 - 👋 Hi, I’m Dennis Mwachi
 - 👀 I’m interested in Hardcore coding and hardware programming
-- 🌱 I’m currently in Software Engineering at <img height="50" src="https://scholarshipupdate.ng/wp-content/uploads/2022/03/ALX-Africa-Career-Catalyst-Programme.png">
+- 🌱 I’m currently in Software Engineering at <img height="30" src="https://scholarshipupdate.ng/wp-content/uploads/2022/03/ALX-Africa-Career-Catalyst-Programme.png">
 - 💞️ I’m looking to collaborate on any HTML, Shell, or Bash, projects
 - 📫 How to reach me [...](https://www.linkedin.com/in/dennis-mwachi-a30013216/)
 
-[![mwachi21's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![mwachi21's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mwachi21/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
