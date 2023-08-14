@@ -3,7 +3,7 @@
 </p>
 
 <a href="https://www.instagram.com/dennis_mwachi/">
-  <img height="50" src="https://www.iconfinder.com/icons/8545535/instagram_network_socialmedia_user_interface_icon"/>
+  <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/instagram_social_media_social_media_network-512.png"/>
 </a>
 
 
