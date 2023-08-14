@@ -23,6 +23,8 @@
 - 💞️ I’m looking to collaborate on any HTML, Shell, or bash, projects
 - 📫 How to reach me [...](https://www.linkedin.com/in/dennis-mwachi-a30013216/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 mwachi21/mwachi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
