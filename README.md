@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<ul align="center">
 <a href="https://www.instagram.com/dennis_mwachi/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/instagram_social_media_social_media_network-512.png"/>
 </a>
@@ -16,6 +17,7 @@
 <a href="https://www.facebook.com/dennyx.max">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/facebook_social_media_social_media_network-512.png">
 </a>
+</ul>
 
 - 👋 Hi, I’m Dennis Mwachi
 - 👀 I’m interested in Hardcore coding and hardware programming
