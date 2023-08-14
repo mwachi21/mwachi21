@@ -9,7 +9,7 @@
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/twitter_social_media_social_media_network-512.png">
 </a>
 
-<a href="https://twitter.com/dennis_mwachi">
+<a href="https://wa.me/+254725905958">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/whatsapp_social_media_social_media_network-512.png">
 </a>
 
