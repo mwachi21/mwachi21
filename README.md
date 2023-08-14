@@ -19,7 +19,7 @@
 
 - 👋 Hi, I’m Dennis Mwachi
 - 👀 I’m interested in Hardcore coding and hardware programming
-- 🌱 I’m currently in Software Engineering at <img src="https://lh3.googleusercontent.com/Ac1cTLN5PaGfFTBiv6SOIVjDX47DrQcEhwEi0SJHU6mkk0vDsyOmBJhoa3bwkclUT9fs-NKgz_i9CRqz85iw_FusHaddlTl53xk=s0">
+- 🌱 I’m currently in Software Engineering at <img height="50" src="https://scholarshipupdate.ng/wp-content/uploads/2022/03/ALX-Africa-Career-Catalyst-Programme.png">
 - 💞️ I’m looking to collaborate on any HTML, Shell, or Bash, projects
 - 📫 How to reach me [...](https://www.linkedin.com/in/dennis-mwachi-a30013216/)
 
