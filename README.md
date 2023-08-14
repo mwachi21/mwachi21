@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dennis%20Mwachi&fontSize=90" />
 </p>
-<tt align="center">Let's Connect on the Socials</tt>
+<tt text-align="center">Let's Connect on the Socials</tt>
 
 <ul align="center">
   <a href="https://www.instagram.com/dennis_mwachi/">
