@@ -37,8 +37,6 @@
 - 💞️ I’m looking to collaborate on any HTML, Shell, or Bash, projects
 - 📫 How to reach me [...](https://www.linkedin.com/in/dennis-mwachi-a30013216/)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwachi21)](https://github.com/anuraghazra/github-readme-stats)
-
 [![mwachi21's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwachi21)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwachi21)](https://github.com/anuraghazra/github-readme-stats)
