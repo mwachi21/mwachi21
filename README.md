@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dennis%20Mwachi&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dennis%20Mwachi&animation=fadeIn&fontSize=90" />
     <br><br>
     <tt text-align="center">Let's Connect on the Socials</tt>
 
@@ -34,14 +34,11 @@
 </ul>
 <hr>
 
-<img width="1080" src="https://th.bing.com/th/id/R.f1837736d507a2666762717813ee41c8?rik=qJmevxZw3oxQwg&pid=ImgRaw&r=0">
-- 👋 Hi, I’m Dennis Mwachi
-- 👀 I’m interested in Hardcore coding and hardware programming
-- 🌱 I’m currently in Software Engineering at <img height="30" src="https://scholarshipupdate.ng/wp-content/uploads/2022/03/ALX-Africa-Career-Catalyst-Programme.png">
-- 💞️ I’m looking to collaborate on any HTML, Shell, or Bash, projects
-- 📫 How to reach me [...](https://www.linkedin.com/in/dennis-mwachi-a30013216/)
+<img width="100%" src="https://th.bing.com/th/id/R.f1837736d507a2666762717813ee41c8?rik=qJmevxZw3oxQwg&pid=ImgRaw&r=0">
 
-[![mwachi21's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwachi21)](https://github.com/anuraghazra/github-readme-stats)
+Currently studying Software Engineering at <img height="30" src="https://scholarshipupdate.ng/wp-content/uploads/2022/03/ALX-Africa-Career-Catalyst-Programme.png"><br>
+- 💞️ I’m looking to collaborate on any HTML, Shell, or Bash, projects
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwachi21)](https://github.com/anuraghazra/github-readme-stats)
 
