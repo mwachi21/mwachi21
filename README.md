@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dennis%20Mwachi&fontSize=90&text=capsule_render&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dennis%20Mwachi&fontSize=90" />
 </p>
 
 <ul align="center">
