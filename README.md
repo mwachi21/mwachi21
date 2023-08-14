@@ -16,10 +16,6 @@
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/twitter_social_media_social_media_network-512.png">
 </a>
 
-<a href="https://wa.me/+254725905958">
-  <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/whatsapp_social_media_social_media_network-512.png">
-</a>
-
 <a href="https://www.facebook.com/dennyx.max">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/facebook_social_media_social_media_network-512.png">
 </a>
@@ -27,6 +23,12 @@
 <a href="https://www.behance.net/dennismwachi">
   <img src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/behance_business_creative_portfolio_designer-64.png">
 </a>
+
+
+<a href="https://wa.me/+254725905958">
+  <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/whatsapp_social_media_social_media_network-512.png">
+</a>
+
 </ul>
 
 - 👋 Hi, I’m Dennis Mwachi
