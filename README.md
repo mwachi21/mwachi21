@@ -3,6 +3,9 @@
 </p>
 
 <ul align="center">
+<a href="https://www.linkedin.com/in/dennis-mwachi-a30013216/">
+  <img src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/linkedin_linked_interface_media_social_network-64.png">
+</a>
 <a href="https://www.instagram.com/dennis_mwachi/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/instagram_social_media_social_media_network-512.png"/>
 </a>
