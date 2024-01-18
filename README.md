@@ -48,9 +48,10 @@ Currently studying Software Engineering at <img height="30" src="https://scholar
 </a>
 <!-- end -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwachi21)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwachi21)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer&text=Thank%20You&fontSize=60&fontColor=d6ace6)
+<img height=200 align="center" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer&text=Let's%20Code&fontSize=60&fontColor=E3D04D)
 
 <!---
 mwachi21/mwachi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
